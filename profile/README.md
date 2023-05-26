@@ -60,28 +60,28 @@ Rédaction d'un cahier des charges.
 
 ### Marques-pages (10%)
 
-> Énoncé : cours 3
+> Énoncé : cours 3 \
 > Remises : cours 5, 7, 9, 11, 13
 
 Création et annotation d'un répertoire collectif de sites Web.
 
 ### TP1 : Maquette fil de fer (15%)
 
-> Énoncé : cours 4
+> Énoncé : cours 4 \
 > Remise : cours 7
 
 Création d'une maquette fil de fer à partir d'un cahier des charges.
 
 ### TP2 : Maquette graphique (20%)
 
-> Énoncé : cours 9
+> Énoncé : cours 9 \
 > Remise : cours 15
 
 Création d'une maquette graphique à partir d'une maquette fil de fer.
 
 ### TP3 : Intégration Web (20%)
 
-> Énoncé : cours 16
+> Énoncé : cours 16 \
 > Remise : cours 23
 
  Intégration Web d'une maquette graphique.
