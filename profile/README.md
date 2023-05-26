@@ -53,7 +53,7 @@ Des exercices d'évaluation formative sont aussi prévus tout au long de la sess
 
 ### Cahier des charges (5%)
 
-> Énoncé : cours 2
+> Énoncé : cours 2 \
 > Remises : cours 3
 
 Rédaction d'un cahier des charges.
