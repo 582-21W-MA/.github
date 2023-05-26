@@ -51,14 +51,21 @@ Des exercices d'évaluation formative sont aussi prévus tout au long de la sess
 
 ## Évaluations
 
+### Cahier des charges (5%)
+
+> Énoncé : cours 2
+> Remises : cours 3
+
+Rédaction d'un cahier des charges.
+
 ### Marques-pages (10%)
 
 > Énoncé : cours 3
-> Remises : cours 4, 6, 8, 11, 14
+> Remises : cours 5, 7, 9, 11, 13
 
 Création et annotation d'un répertoire collectif de sites Web.
 
-### TP1 : Maquette fil de fer (20%)
+### TP1 : Maquette fil de fer (15%)
 
 > Énoncé : cours 4
 > Remise : cours 7
