@@ -75,7 +75,7 @@ Création d'une maquette fil de fer à partir d'un cahier des charges.
 ### TP2 : Maquette graphique (20%)
 
 > Énoncé : cours 9 \
-> Remise : cours 15
+> Remise : cours 14
 
 Création d'une maquette graphique à partir d'une maquette fil de fer.
 
