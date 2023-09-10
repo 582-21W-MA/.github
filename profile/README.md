@@ -4,6 +4,7 @@ Bienvenue sur le portail du cours. Vous trouverez le plan de cours, les exercice
 
 <details>
 <summary>1. Introduction</summary>
+<br>
 
 1. Présentations
 2. Plan de cours
@@ -18,6 +19,7 @@ Pour le prochain cours :
 
 <details>
 <summary>2. Types de site Web</summary>
+<br>
 
 1. Types de site Web
 2. Tour de la plateforme Are.na
