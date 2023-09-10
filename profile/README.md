@@ -5,7 +5,7 @@ Bienvenue sur le portail du cours. Vous trouverez le plan de cours, les exercice
 <details>
 <summary>
 
-#### 1. Introduction
+1. Introduction
 
 </summary>
 
@@ -23,7 +23,7 @@ Pour le prochain cours :
 <details>
 <summary>
 
-#### 1. Types de site Web
+2. Types de site Web
 
 </summary>
 
