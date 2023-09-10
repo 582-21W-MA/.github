@@ -2,7 +2,7 @@
 
 Bienvenue sur le portail du cours. Vous trouverez le plan de cours, les exercices, les notes de cours, et les énoncées des évaluations dans leur dépôt respectif. La section ci-bas contient l’agenda du cours.
 
-<details open>
+<details>
 <summary>
 
 #### 1. Introduction
@@ -17,5 +17,22 @@ Bienvenue sur le portail du cours. Vous trouverez le plan de cours, les exercice
 Pour le prochain cours :
 
 - Terminer l’exercice Cahier des charges
+		
+</details>
+
+<details>
+<summary>
+
+#### 1. Types de site Web
+
+</summary>
+
+1. Types de site Web
+2. Tour de la plateforme Are.na
+3. Exercice : Recherche
+
+Pour le prochain cours :
+
+- Terminer l’exercice Recherche
 		
 </details>
