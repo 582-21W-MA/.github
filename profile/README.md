@@ -9,6 +9,11 @@ Bienvenue sur le portail du cours. Vous trouverez le plan de cours, les exercice
 
 </summary>
 
+1. Présentations
+2. Plan de cours
+3. Tour de la plateforme du cours
+4. Exercice : Cahier des charges
+
 Pour le prochain cours :
 
 - Terminer l’exercice Cahier des charges
