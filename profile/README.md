@@ -7,7 +7,7 @@ Bienvenue sur le portail du cours. Vous trouverez le plan de cours, les exercice
 
 #### 1. Introduction
 
-</summary>
+</summary open>
 
 1. Présentations
 2. Plan de cours
