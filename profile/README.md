@@ -3,11 +3,7 @@
 Bienvenue sur le portail du cours. Vous trouverez le plan de cours, les exercices, les notes de cours, et les énoncées des évaluations dans leur dépôt respectif. La section ci-bas contient l’agenda du cours.
 
 <details>
-<summary>
-
-1. Introduction
-
-</summary>
+<summary>1. Introduction</summary>
 
 1. Présentations
 2. Plan de cours
@@ -21,11 +17,7 @@ Pour le prochain cours :
 </details>
 
 <details>
-<summary>
-
-2. Types de site Web
-
-</summary>
+<summary>2. Types de site Web</summary>
 
 1. Types de site Web
 2. Tour de la plateforme Are.na
