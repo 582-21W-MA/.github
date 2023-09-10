@@ -111,3 +111,63 @@ Pour le prochain cours :
 <br>
 		
 </details>
+
+<details>
+<summary>16. Moteurs de gabarit</summary>
+<br>
+		
+</details>
+
+<details>
+<summary>17. Générateurs de sites statiques</summary>
+<br>
+		
+</details>
+
+<details>
+<summary>18. Intégration Web</summary>
+<br>
+		
+</details>
+
+<details>
+<summary>19. Atelier</summary>
+<br>
+		
+</details>
+
+<details>
+<summary>20. Préprocesseurs, bibliothèques et cadres CSS</summary>
+<br>
+		
+</details>
+
+<details>
+<summary>21. Transitions et animations</summary>
+<br>
+		
+</details>
+
+<details>
+<summary>22. SVG et canevas</summary>
+<br>
+		
+</details>
+
+<details>
+<summary>23. Révision</summary>
+<br>
+		
+</details>
+
+<details>
+<summary>24. Atelier</summary>
+<br>
+		
+</details>
+
+<details>
+<summary>25. Épreuve finale</summary>
+<br>
+		
+</details>
