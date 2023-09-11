@@ -5,7 +5,7 @@ Bienvenue sur le portail du cours ! Vous trouverez le plan de cours, les exercic
 <details>
 <summary>
 
-#### 1. Introduction
+##### 1. Introduction
 
 </summary>
 <br>
