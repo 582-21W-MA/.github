@@ -3,7 +3,7 @@
 Bienvenue sur le portail du cours ! Vous trouverez le plan de cours, les exercices, les notes de cours, et les énoncées des évaluations dans leur dépôt respectif (voir l’onglet *repositories*). La section ci-bas contient l’agenda du cours, incluant les choses à faire ou à lire, ainsi que les remises.
 
 <details>
-<summary>**1. Introduction**</summary>
+<summary>1. Introduction</summary>
 <br>
 
 1. Présentations
@@ -18,7 +18,7 @@ Pour le prochain cours :
 </details>
 
 <details>
-<summary>**2. Types de site Web**</summary>
+<summary>2. Types de site Web</summary>
 <br>
 
 1. Types de site Web
@@ -32,26 +32,26 @@ Pour le prochain cours :
 </details>
 
 <details>
-<summary>**3. Design d’expérience**</summary>
+<summary>3. Design d’expérience</summary>
 <br>
 		
 </details>
 
 <details>
-<summary>**4. Typographie**</summary>
+<summary>4. Typographie</summary>
 <br>
 		
 </details>
 
 
 <details>
-<summary>**5. Grille et rythme**</summary>
+<summary>5. Grille et rythme</summary>
 <br>
 		
 </details>
 
 <details>
-<summary>**6. Couleurs**</summary>
+<summary>6. Couleurs</summary>
 <br>
 		
 </details>
@@ -59,115 +59,115 @@ Pour le prochain cours :
 </details>
 
 <details>
-<summary>**7. Charte graphique**</summary>
+<summary>7. Charte graphique</summary>
 <br>
 		
 </details>
 
 <details>
-<summary>**8. Approche modulaire**</summary>
+<summary>8. Approche modulaire</summary>
 <br>
 		
 </details>
 
 <details>
-<summary>**9. Maquette graphique**</summary>
+<summary>9. Maquette graphique</summary>
 <br>
 		
 </details>
 
 <details>
-<summary>**10. Atelier**</summary>
+<summary>10. Atelier</summary>
 <br>
 		
 </details>
 
 <details>
-<summary>**11. Matérialité du Web**</summary>
+<summary>11. Matérialité du Web</summary>
 <br>
 		
 </details>
 
 <details>
-<summary>**12. Accessibilité et sémantique**</summary>
+<summary>12. Accessibilité et sémantique</summary>
 <br>
 		
 </details>
 
 <details>
-<summary>**13. Retour sur la mise en forme CSS**</summary>
+<summary>13. Retour sur la mise en forme CSS</summary>
 <br>
 		
 </details>
 
 <details>
-<summary>**14. CSS grid et les fonctions CSS**</summary>
+<summary>14. CSS grid et les fonctions CSS</summary>
 <br>
 		
 </details>
 
 <details>
-<summary>**15. Architecture et variables CSS**</summary>
+<summary>15. Architecture et variables CSS</summary>
 <br>
 		
 </details>
 
 <details>
-<summary>**16. Moteurs de gabarit**</summary>
+<summary>16. Moteurs de gabarit</summary>
 <br>
 		
 </details>
 
 <details>
-<summary>**17. Générateurs de sites statiques**</summary>
+<summary>17. Générateurs de sites statiques</summary>
 <br>
 		
 </details>
 
 <details>
-<summary>**18. Intégration Web**</summary>
+<summary>18. Intégration Web</summary>
 <br>
 		
 </details>
 
 <details>
-<summary>**19. Atelier**</summary>
+<summary>19. Atelier</summary>
 <br>
 		
 </details>
 
 <details>
-<summary>**20. Préprocesseurs, bibliothèques et cadres CSS**</summary>
+<summary>20. Préprocesseurs, bibliothèques et cadres CSS</summary>
 <br>
 		
 </details>
 
 <details>
-<summary>**21. Transitions et animations**</summary>
+<summary>21. Transitions et animations</summary>
 <br>
 		
 </details>
 
 <details>
-<summary>**22. SVG et canevas**</summary>
+<summary>22. SVG et canevas</summary>
 <br>
 		
 </details>
 
 <details>
-<summary>**23. Révision**</summary>
+<summary>23. Révision</summary>
 <br>
 		
 </details>
 
 <details>
-<summary>**24. Atelier**</summary>
+<summary>24. Atelier</summary>
 <br>
 		
 </details>
 
 <details>
-<summary>**25. Épreuve finale**</summary>
+<summary>25. Épreuve finale</summary>
 <br>
 		
 </details>
