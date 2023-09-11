@@ -12,7 +12,7 @@ Bienvenue sur le portail du cours ! Vous trouverez le plan de cours, les exercic
 4. Schéma de production
 5. Exercice : [Cahier des charges](https://github.com/582-21W-MA/exercices/tree/main/01_cahier-des-charges)
 
-Pour le prochain cours :
+À faire pour le prochain cours :
 
 - Terminer l'exercice [Cahier des charges](https://github.com/582-21W-MA/exercices/tree/main/01_cahier-des-charges)
 		
@@ -26,9 +26,12 @@ Pour le prochain cours :
 2. Tour de la plateforme Are.na
 3. Exercice : Recherche
 
-Pour le prochain cours :
+À lire/visionner pour le prochain cours :
 
-- Terminer l'exercice Recherche
+- [Apple HIG](https://developer.apple.com/design/human-interface-guidelines/layout#Best-practices)
+- [Gestalt Principles for UI Design (vidéo)](https://www.youtube.com/playlist?list=PLJOFJ3Ok_iduObD_9dHwiYp804oZwpHze)
+- [Max Wertheimer : *Investigations on Gestalt Principles* (facultatif)](https://g-e-s-t-a-l-t.org/media/pdf/Investigations-on-Gestalt-Principles.pdf)
+- [The Laws of UX (facultatif)](https://lawsofux.com)
 		
 </details>
 
