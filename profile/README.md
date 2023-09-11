@@ -9,7 +9,8 @@ Bienvenue sur le portail du cours ! Vous trouverez le plan de cours, les exercic
 1. Présentations
 2. Plan de cours
 3. Tour de la plateforme du cours
-4. Exercice : [Cahier des charges](https://github.com/582-21W-MA/exercices/tree/main/01_cahier-des-charges)
+4. Schéma de production
+5. Exercice : [Cahier des charges](https://github.com/582-21W-MA/exercices/tree/main/01_cahier-des-charges)
 
 Pour le prochain cours :
 
