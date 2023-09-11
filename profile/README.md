@@ -1,6 +1,6 @@
 # Agenda
 
-Bienvenue sur le portail du cours ! Vous trouverez le plan de cours, les exercices, les notes de cours, et les énoncées des évaluations dans leur dépôt respectif (voir l’onglet *repositories*). La section ci-bas contient l’agenda du cours, incluant les choses à faire ou à lire, ainsi que les remises.
+Bienvenue sur le portail du cours ! Vous trouverez le plan de cours, les exercices, les notes de cours, et les énoncées des évaluations dans leur dépôt respectif (voir l'onglet *repositories*). La section ci-bas contient l'agenda du cours, incluant les choses à faire ou à lire, ainsi que les remises.
 
 <details>
 <summary>1. Introduction</summary>
@@ -14,7 +14,7 @@ Bienvenue sur le portail du cours ! Vous trouverez le plan de cours, les exercic
 
 Pour le prochain cours :
 
-- Terminer l’exercice [Cahier des charges](https://github.com/582-21W-MA/exercices/tree/main/01_cahier-des-charges)
+- Terminer l'exercice [Cahier des charges](https://github.com/582-21W-MA/exercices/tree/main/01_cahier-des-charges)
 		
 </details>
 
@@ -28,12 +28,12 @@ Pour le prochain cours :
 
 Pour le prochain cours :
 
-- Terminer l’exercice Recherche
+- Terminer l'exercice Recherche
 		
 </details>
 
 <details>
-<summary>3. Design d’expérience</summary>
+<summary>3. Design d'expérience</summary>
 <br>
 		
 </details>
