@@ -3,11 +3,7 @@
 Bienvenue sur le portail du cours ! Vous trouverez le plan de cours, les exercices, les notes de cours, et les énoncées des évaluations dans leur dépôt respectif (voir l’onglet *repositories*). La section ci-bas contient l’agenda du cours, incluant les choses à faire ou à lire, ainsi que les remises.
 
 <details>
-<summary>
-
-##### 1. Introduction
-
-</summary>
+<summary>1. Introduction</summary>
 <br>
 
 1. Présentations
