@@ -3,7 +3,7 @@
 Bienvenue sur le portail du cours ! Vous trouverez le plan de cours, les exercices, les notes de cours, et les énoncées des évaluations dans leur dépôt respectif (voir l'onglet *repositories*). Un forum de classe est également mis à votre disposition sous l'onglet *discussions*. La section ci-bas contient l'agenda du cours, incluant les choses à faire ou à lire, ainsi que les remises.
 
 <details>
-<summary>1. Introduction</summary>
+<summary><strong>1. Introduction</strong></summary>
 <br>
 
 1. Présentations
@@ -19,44 +19,45 @@ Bienvenue sur le portail du cours ! Vous trouverez le plan de cours, les exercic
 </details>
 
 <details>
-<summary>2. Types de site Web</summary>
+<summary><strong>2. Types de site Web</strong></summary>
 <br>
 
 1. Types de site Web
-2. Tour de la plateforme Are.na
-3. Exercice : Recherche
+2. Objectifs, dangers, utilisateur·rices, et parcours
+3. Introduction à FigJam
+4. Exercice : [Recherche](https://github.com/582-21W-MA/exercices/tree/main/02_recherche)
 
 À lire/visionner pour le prochain cours :
 
 - [Apple HIG](https://developer.apple.com/design/human-interface-guidelines/layout#Best-practices)
-- [Gestalt Principles for UI Design (vidéo)](https://www.youtube.com/playlist?list=PLJOFJ3Ok_iduObD_9dHwiYp804oZwpHze)
+- [Gestalt Principles for UI Design (vidéos)](https://www.youtube.com/playlist?list=PLJOFJ3Ok_iduObD_9dHwiYp804oZwpHze)
 - [Max Wertheimer : *Investigations on Gestalt Principles* (facultatif)](https://g-e-s-t-a-l-t.org/media/pdf/Investigations-on-Gestalt-Principles.pdf)
 - [The Laws of UX (facultatif)](https://lawsofux.com)
-- [Processus d’implémentation d’un formulaire d’enregistrement au MoMa (facultatif)](https://eric.young.li/moma-sso/)
+- [Processus d'implémentation d'un formulaire d'enregistrement au MoMa (facultatif)](https://eric.young.li/moma-sso/)
 		
 </details>
 
 <details>
-<summary>3. Design d'expérience</summary>
+<summary><strong>3. Design d'expérience</strong></summary>
 <br>
 		
 </details>
 
 <details>
-<summary>4. Typographie</summary>
+<summary><strong>4. Typographie</strong></summary>
 <br>
 		
 </details>
 
 
 <details>
-<summary>5. Grille et rythme</summary>
+<summary><strong>5. Grille et rythme</strong></summary>
 <br>
 		
 </details>
 
 <details>
-<summary>6. Couleurs</summary>
+<summary><strong>6. Couleurs</strong></summary>
 <br>
 		
 </details>
@@ -64,115 +65,115 @@ Bienvenue sur le portail du cours ! Vous trouverez le plan de cours, les exercic
 </details>
 
 <details>
-<summary>7. Charte graphique</summary>
+<summary><strong>7. Charte graphique</strong></summary>
 <br>
 		
 </details>
 
 <details>
-<summary>8. Approche modulaire</summary>
+<summary><strong>8. Approche modulaire</strong></summary>
 <br>
 		
 </details>
 
 <details>
-<summary>9. Maquette graphique</summary>
+<summary><strong>9. Maquette graphique</strong></summary>
 <br>
 		
 </details>
 
 <details>
-<summary>10. Atelier</summary>
+<summary><strong>10. Atelier</strong></summary>
 <br>
 		
 </details>
 
 <details>
-<summary>11. Matérialité du Web</summary>
+<summary><strong>11. Matérialité du Web</strong></summary>
 <br>
 		
 </details>
 
 <details>
-<summary>12. Accessibilité et sémantique</summary>
+<summary><strong>12. Accessibilité et sémantique</strong></summary>
 <br>
 		
 </details>
 
 <details>
-<summary>13. Retour sur la mise en forme CSS</summary>
+<summary><strong>13. Retour sur la mise en forme CSS</strong></summary>
 <br>
 		
 </details>
 
 <details>
-<summary>14. CSS grid et les fonctions CSS</summary>
+<summary><strong>14. CSS grid et les fonctions CSS</strong></summary>
 <br>
 		
 </details>
 
 <details>
-<summary>15. Architecture et variables CSS</summary>
+<summary><strong>15. Architecture et variables CSS</strong></summary>
 <br>
 		
 </details>
 
 <details>
-<summary>16. Moteurs de gabarit</summary>
+<summary><strong>16. Moteurs de gabarit</strong></summary>
 <br>
 		
 </details>
 
 <details>
-<summary>17. Générateurs de sites statiques</summary>
+<summary><strong>17. Générateurs de sites statiques</strong></summary>
 <br>
 		
 </details>
 
 <details>
-<summary>18. Intégration Web</summary>
+<summary><strong>18. Intégration Web</strong></summary>
 <br>
 		
 </details>
 
 <details>
-<summary>19. Atelier</summary>
+<summary><strong>19. Atelier</strong></summary>
 <br>
 		
 </details>
 
 <details>
-<summary>20. Préprocesseurs, bibliothèques et cadres CSS</summary>
+<summary><strong>20. Préprocesseurs, bibliothèques et cadres CSS</strong></summary>
 <br>
 		
 </details>
 
 <details>
-<summary>21. Transitions et animations</summary>
+<summary><strong>21. Transitions et animations</strong></summary>
 <br>
 		
 </details>
 
 <details>
-<summary>22. SVG et canevas</summary>
+<summary><strong>22. SVG et canevas</strong></summary>
 <br>
 		
 </details>
 
 <details>
-<summary>23. Révision</summary>
+<summary><strong>23. Révision</strong></summary>
 <br>
 		
 </details>
 
 <details>
-<summary>24. Atelier</summary>
+<summary><strong>24. Atelier</strong></summary>
 <br>
 		
 </details>
 
 <details>
-<summary>25. Épreuve finale</summary>
+<summary><strong>25. Épreuve finale</strong></summary>
 <br>
 		
 </details>
