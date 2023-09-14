@@ -33,7 +33,6 @@ Bienvenue sur le portail du cours ! Vous trouverez le plan de cours, les exercic
 - [Gestalt Principles for UI Design (vidéos)](https://www.youtube.com/playlist?list=PLJOFJ3Ok_iduObD_9dHwiYp804oZwpHze)
 - [Max Wertheimer : *Investigations on Gestalt Principles* (facultatif)](https://g-e-s-t-a-l-t.org/media/pdf/Investigations-on-Gestalt-Principles.pdf)
 - [The Laws of UX (facultatif)](https://lawsofux.com)
-- [Processus d'implémentation d'un formulaire d'enregistrement au MoMa (facultatif)](https://eric.young.li/moma-sso/)
 		
 </details>
 
