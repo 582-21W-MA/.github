@@ -10,11 +10,13 @@ Bienvenue sur le portail du cours ! Vous trouverez le plan de cours, les exercic
 2. Plan de cours
 3. Tour de la plateforme du cours
 4. Schéma de production
-5. Exercice : [Cahier des charges](https://github.com/582-21W-MA/exercices/tree/main/01_cahier-des-charges)
+5. Exercice : [Cahier des charges][]
 
 À faire pour le prochain cours :
 
-- Terminer l'exercice [Cahier des charges](https://github.com/582-21W-MA/exercices/tree/main/01_cahier-des-charges)
+- Terminer l'exercice [Cahier des charges][]
+
+[Cahier des charges]: https://github.com/582-21W-MA/exercices/tree/main/01_cahier-des-charges
 		
 </details>
 
@@ -25,7 +27,9 @@ Bienvenue sur le portail du cours ! Vous trouverez le plan de cours, les exercic
 1. Types de site Web
 2. Objectifs, dangers, utilisateur·rices, et parcours
 3. Introduction à FigJam
-4. Exercice : [Recherche](https://github.com/582-21W-MA/exercices/tree/main/02_recherche)
+4. Exercice : [Recherche][]
+
+[Recherche]: (https://github.com/582-21W-MA/exercices/tree/main/02_recherche)
 
 À lire/visionner pour le prochain cours :
 
@@ -39,6 +43,17 @@ Bienvenue sur le portail du cours ! Vous trouverez le plan de cours, les exercic
 <details>
 <summary><strong>3. Design d'expérience</strong></summary>
 <br>
+
+1. Retour sur l'exercice [Recherche][]
+2. Retour sur les lectures/vidéos
+3. Maquette fil de fer
+4. Énoncé du TP1
+
+À lire pour le prochain cours :
+
+- [Matthew Butterick : What is good typography?](https://practicaltypography.com/what-is-good-typography.html)
+- [Matthew Butterick : Typography in ten minutes](https://practicaltypography.com/typography-in-ten-minutes.html)
+- [Robert Bringhurst : Choisir et associer les caractères typographiques](https://github.com/582-21W-MA/notes-de-cours/blob/main/04_typographie/bringhurst.pdf)
 		
 </details>
 
