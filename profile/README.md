@@ -41,8 +41,9 @@ Bienvenue sur le portail du cours ! Vous trouverez le plan de cours, les exercic
 <br>
 
 1. Retour sur l'exercice [Recherche](https://github.com/582-21W-MA/exercices/tree/main/02_recherche) et sur les lectures
-2. Maquette fil de fer
-3. Énoncé du TP1
+2. Gestalt
+3. Maquette fil de fer
+4. Énoncé du TP1
 
 À lire pour le prochain cours :
 
