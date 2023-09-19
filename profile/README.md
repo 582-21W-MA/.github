@@ -49,7 +49,7 @@ Bienvenue sur le portail du cours ! Vous trouverez le plan de cours, les exercic
 
 - [Matthew Butterick : What is good typography?](https://practicaltypography.com/what-is-good-typography.html)
 - [Matthew Butterick : Typography in ten minutes](https://practicaltypography.com/typography-in-ten-minutes.html)
-- [Robert Bringhurst : Choisir et associer les caractères typographiques](https://github.com/582-21W-MA/notes-de-cours/blob/main/04_typographie/bringhurst.pdf)
+- [Robert Bringhurst : Choisir et associer les caractères typographiques](https://github.com/582-21W-MA/notes-de-cours/blob/main/05_typographie/bringhurst.pdf)
 		
 </details>
 
