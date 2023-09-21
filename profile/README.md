@@ -56,6 +56,17 @@ Bienvenue sur le portail du cours ! Vous trouverez le plan de cours, les exercic
 <details>
 <summary><strong>4. Typographie</strong></summary>
 <br>
+
+1. Introduction à la typographie
+2. Comment choisir des polices de caractères ?
+3. Exercice
+	
+À lire pour le prochain cours :
+
+- [Eugene Fedorenko : Accessible Palette: stop using HSL for color systems](https://wildbit.com/blog/accessible-palette-stop-using-hsl-for-color-systems)
+- [Ruben Pater : Colour Psychology, Colour and Culture](https://readings.design/PDF/Color_Politics_of_Design.pdf)
+- [Cortney Cassidy : Everyday Color Theory (facultatif)](https://medium.com/google-design/everyday-color-theory-59c1ca0770cb)
+- [Josh W Comeau : Color Formats in CSS (facultatif)](https://www.joshwcomeau.com/css/color-formats/)
 		
 </details>
 
