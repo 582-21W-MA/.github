@@ -70,19 +70,23 @@ Bienvenue sur le portail du cours ! Vous trouverez le plan de cours, les exercic
 		
 </details>
 
-
 <details>
-<summary><strong>5. Grille et rythme</strong></summary>
+<summary><strong>5. Couleurs</strong></summary>
 <br>
-		
+
+1. Retour sur l'exercice « typographie »
+2. Couleurs
+
+À faire pour le prochain cours :
+
+- Rien !
+
 </details>
 
 <details>
-<summary><strong>6. Couleurs</strong></summary>
+<summary><strong>6. Grille et rythme</strong></summary>
 <br>
 		
-</details>
-
 </details>
 
 <details>
