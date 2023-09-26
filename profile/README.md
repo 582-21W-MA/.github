@@ -86,6 +86,13 @@ Bienvenue sur le portail du cours ! Vous trouverez le plan de cours, les exercic
 <details>
 <summary><strong>6. Grille et rythme</strong></summary>
 <br>
+
+1. Grille
+2. Exercice
+
+À lire pour le prochain cours :
+
+- [Rob Giampietro : Designing a New MoMA](https://linedandunlined.com/archive/designing-a-new-moma/)
 		
 </details>
 
