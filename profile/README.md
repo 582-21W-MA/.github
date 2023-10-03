@@ -93,6 +93,9 @@ Bienvenue sur le portail du cours ! Vous trouverez le plan de cours, les exercic
 À lire pour le prochain cours :
 
 - [Rob Giampietro : Designing a New MoMA](https://linedandunlined.com/archive/designing-a-new-moma/)
+- [Portfolio de l'agence Order (section *identity*)](https://order.design)
+- [IBM Design Language](https://www.ibm.com/design/language/)
+- [Système de design gouvernemental du Québec](https://design.quebec.ca/a-propos-systeme-design)
 		
 </details>
 
