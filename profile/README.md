@@ -102,6 +102,15 @@ Bienvenue sur le portail du cours ! Vous trouverez le plan de cours, les exercic
 <details>
 <summary><strong>7. Charte graphique</strong></summary>
 <br>
+
+1. Retour sur l'exercice
+2. Qu'est-ce qu'une charte graphique ?
+3. Figma (suite)
+4. Exercice
+
+À lire pour le prochain cours :
+
+- [Tim Berners-Lee : Axioms of Web architecture](https://www.w3.org/DesignIssues/Principles.html)
 		
 </details>
 
