@@ -115,9 +115,18 @@ Bienvenue sur le portail du cours ! Vous trouverez le plan de cours, les exercic
 </details>
 
 <details>
-<summary><strong>8. Approche modulaire</strong></summary>
+<summary><strong>8. Modularité</strong></summary>
 <br>
-		
+
+1. Qu'est-ce que la modularité ?
+2. Comment (dé)composer une interface graphique
+3. Figma (suite)
+4. Exercice
+
+À faire pour le prochain cours :
+
+- Continuer à se familiariser avec les fonctionnalités « composant » et « disposition automatique » de Figma (voir exercice).
+
 </details>
 
 <details>
