@@ -132,6 +132,13 @@ Bienvenue sur le portail du cours ! Vous trouverez le plan de cours, les exercic
 <details>
 <summary><strong>9. Maquette graphique</strong></summary>
 <br>
+
+1. Figma (suite)
+2. Énoncé du TP2
+
+À faire pour le prochain cours :
+
+- Rien !
 		
 </details>
 
