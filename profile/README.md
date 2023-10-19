@@ -65,6 +65,7 @@ Bienvenue sur le portail du cours ! Vous trouverez le plan de cours, les exercic
 
 - [Eugene Fedorenko : Accessible Palette: stop using HSL for color systems](https://wildbit.com/blog/accessible-palette-stop-using-hsl-for-color-systems)
 - [Ruben Pater : Colour Psychology, Colour and Culture](https://readings.design/PDF/Color_Politics_of_Design.pdf)
+- [Gavin Evans : How Language Changes The Way We See Color (facultatif)](https://www.youtube.com/watch?v=mgxyfqHRPoE)
 - [Cortney Cassidy : Everyday Color Theory (facultatif)](https://medium.com/google-design/everyday-color-theory-59c1ca0770cb)
 - [Josh W Comeau : Color Formats in CSS (facultatif)](https://www.joshwcomeau.com/css/color-formats/)
 		
@@ -145,12 +146,29 @@ Bienvenue sur le portail du cours ! Vous trouverez le plan de cours, les exercic
 <details>
 <summary><strong>10. Atelier</strong></summary>
 <br>
-		
+
+1. Temps libre pour avancer votre TP2
+
+À faire pour le prochain cours :
+
+- Rien !
+	
 </details>
 
 <details>
 <summary><strong>11. Matérialité du Web</strong></summary>
 <br>
+
+1. Retour sur le TP1
+2. Qu'est-ce que la matérialité ?
+3. Approche adaptative
+4. Git (si le temps le permet)
+
+À lire pour le prochain cours :
+
+- [Jeremy Keith : Resilient Web Design, chapitre 2](https://resilientwebdesign.com/chapter2/)
+- [Sam Dwyer : Progressive Enhancement](https://www.smashingmagazine.com/2009/04/progressive-enhancement-what-it-is-and-how-to-use-it/)
+- [W3C : Notes on ARIA Use in HTML](https://www.w3.org/TR/using-aria/#NOTES)
 		
 </details>
 
