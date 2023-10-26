@@ -175,6 +175,14 @@ Bienvenue sur le portail du cours ! Vous trouverez le plan de cours, les exercic
 <details>
 <summary><strong>12. Accessibilité et sémantique</strong></summary>
 <br>
+
+1. Retour sur Git
+2. Accessibilité et sémantique
+3. Exercice
+
+À faire pour le prochain cours :
+
+- Terminer l'exercice sur l’accessibilité et le pousser sur GitHub.
 		
 </details>
 
