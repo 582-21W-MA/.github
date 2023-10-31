@@ -15,7 +15,7 @@ Bienvenue sur le portail du cours ! Vous trouverez le plan de cours, les exercic
 À faire pour le prochain cours :
 
 - Terminer l'exercice [Cahier des charges](https://github.com/582-21W-MA/exercices/tree/main/01_cahier-des-charges)
-		
+
 </details>
 
 <details>
@@ -33,7 +33,7 @@ Bienvenue sur le portail du cours ! Vous trouverez le plan de cours, les exercic
 - [Gestalt Principles for UI Design (vidéos)](https://www.youtube.com/playlist?list=PLJOFJ3Ok_iduObD_9dHwiYp804oZwpHze)
 - [Max Wertheimer : *Investigations on Gestalt Principles* (facultatif)](https://g-e-s-t-a-l-t.org/media/pdf/Investigations-on-Gestalt-Principles.pdf)
 - [The Laws of UX (facultatif)](https://lawsofux.com)
-		
+
 </details>
 
 <details>
@@ -50,7 +50,7 @@ Bienvenue sur le portail du cours ! Vous trouverez le plan de cours, les exercic
 - [Matthew Butterick : What is good typography?](https://practicaltypography.com/what-is-good-typography.html)
 - [Matthew Butterick : Typography in ten minutes](https://practicaltypography.com/typography-in-ten-minutes.html)
 - [Robert Bringhurst : Choisir et associer les caractères typographiques](https://github.com/582-21W-MA/notes-de-cours/blob/main/05_typographie/bringhurst.pdf)
-		
+
 </details>
 
 <details>
@@ -60,7 +60,7 @@ Bienvenue sur le portail du cours ! Vous trouverez le plan de cours, les exercic
 1. Introduction à la typographie
 2. Comment choisir des polices de caractères ?
 3. Exercice
-	
+
 À lire pour le prochain cours :
 
 - [Eugene Fedorenko : Accessible Palette: stop using HSL for color systems](https://wildbit.com/blog/accessible-palette-stop-using-hsl-for-color-systems)
@@ -68,7 +68,7 @@ Bienvenue sur le portail du cours ! Vous trouverez le plan de cours, les exercic
 - [Gavin Evans : How Language Changes The Way We See Color (facultatif)](https://www.youtube.com/watch?v=mgxyfqHRPoE)
 - [Cortney Cassidy : Everyday Color Theory (facultatif)](https://medium.com/google-design/everyday-color-theory-59c1ca0770cb)
 - [Josh W Comeau : Color Formats in CSS (facultatif)](https://www.joshwcomeau.com/css/color-formats/)
-		
+
 </details>
 
 <details>
@@ -97,7 +97,7 @@ Bienvenue sur le portail du cours ! Vous trouverez le plan de cours, les exercic
 - [Portfolio de l'agence Order (section *identity*)](https://order.design)
 - [IBM Design Language](https://www.ibm.com/design/language/)
 - [Système de design gouvernemental du Québec](https://design.quebec.ca/a-propos-systeme-design)
-		
+
 </details>
 
 <details>
@@ -112,7 +112,7 @@ Bienvenue sur le portail du cours ! Vous trouverez le plan de cours, les exercic
 À lire pour le prochain cours :
 
 - [Tim Berners-Lee : Axioms of Web architecture](https://www.w3.org/DesignIssues/Principles.html)
-		
+
 </details>
 
 <details>
@@ -140,7 +140,7 @@ Bienvenue sur le portail du cours ! Vous trouverez le plan de cours, les exercic
 À faire pour le prochain cours :
 
 - Rien !
-		
+
 </details>
 
 <details>
@@ -152,7 +152,7 @@ Bienvenue sur le portail du cours ! Vous trouverez le plan de cours, les exercic
 À faire pour le prochain cours :
 
 - Rien !
-	
+
 </details>
 
 <details>
@@ -169,7 +169,7 @@ Bienvenue sur le portail du cours ! Vous trouverez le plan de cours, les exercic
 - [Jeremy Keith : Resilient Web Design, chapitre 2](https://resilientwebdesign.com/chapter2/)
 - [Sam Dwyer : Progressive Enhancement](https://www.smashingmagazine.com/2009/04/progressive-enhancement-what-it-is-and-how-to-use-it/)
 - [W3C : Notes on ARIA Use in HTML](https://www.w3.org/TR/using-aria/#NOTES)
-		
+
 </details>
 
 <details>
@@ -182,84 +182,92 @@ Bienvenue sur le portail du cours ! Vous trouverez le plan de cours, les exercic
 
 À faire pour le prochain cours :
 
-- Terminer l'exercice sur l’accessibilité et le pousser sur GitHub.
-		
+- Continuer l'exercice sur l’accessibilité
+
 </details>
 
 <details>
 <summary><strong>13. Retour sur la mise en forme CSS</strong></summary>
 <br>
-		
+
+1. Retour sur l'exercice sur l'accessibilité
+2. Modèle de boîte
+3. Positionnement
+
+À faire pour le prochain cours :
+
+- Terminer l'exercice sur l’accessibilité
+
 </details>
 
 <details>
 <summary><strong>14. CSS grid et les fonctions CSS</strong></summary>
 <br>
-		
+
 </details>
 
 <details>
 <summary><strong>15. Architecture et variables CSS</strong></summary>
 <br>
-		
+
 </details>
 
 <details>
 <summary><strong>16. Moteurs de gabarit</strong></summary>
 <br>
-		
+
 </details>
 
 <details>
 <summary><strong>17. Générateurs de sites statiques</strong></summary>
 <br>
-		
+
 </details>
 
 <details>
 <summary><strong>18. Intégration Web</strong></summary>
 <br>
-		
+
 </details>
 
 <details>
 <summary><strong>19. Atelier</strong></summary>
 <br>
-		
+
 </details>
 
 <details>
 <summary><strong>20. Préprocesseurs, bibliothèques et cadres CSS</strong></summary>
 <br>
-		
+
 </details>
 
 <details>
 <summary><strong>21. Transitions et animations</strong></summary>
 <br>
-		
+
 </details>
 
 <details>
 <summary><strong>22. SVG et canevas</strong></summary>
 <br>
-		
+
 </details>
 
 <details>
 <summary><strong>23. Révision</strong></summary>
 <br>
-		
+
 </details>
 
 <details>
 <summary><strong>24. Atelier</strong></summary>
 <br>
-		
+
 </details>
 
 <details>
 <summary><strong>25. Épreuve finale</strong></summary>
 <br>
-		
+
 </details>
