@@ -190,9 +190,9 @@ Bienvenue sur le portail du cours ! Vous trouverez le plan de cours, les exercic
 <summary><strong>13. Retour sur la mise en forme CSS</strong></summary>
 <br>
 
-1. Retour sur l'exercice sur l'accessibilité
-2. Modèle de boîte
-3. Positionnement
+1. Modèle de boîte
+2. Positionnement
+3. Temps en classe pour continuer l'exercice sur l'accessibilité
 
 À faire pour le prochain cours :
 
@@ -204,11 +204,30 @@ Bienvenue sur le portail du cours ! Vous trouverez le plan de cours, les exercic
 <summary><strong>14. CSS grid et les fonctions CSS</strong></summary>
 <br>
 
+1. Retour sur l'exercice sur l'accessibilité
+2. Flexbox
+3. CSS Grid
+4. Exercices
+
+À faire pour le prochain cours :
+
+- Terminer et soumettre les exercices sur Flexbox et CSS Grid
+
 </details>
 
 <details>
 <summary><strong>15. Architecture et variables CSS</strong></summary>
 <br>
+
+1. Retour sur les exercices sur Flexbox
+2. CSS Grid (suite)
+3. Exercice sur CSS Grid
+4. Variables CSS
+5. Méthodologies
+
+À faire pour le prochain cours :
+
+- Terminer et soumettre l'exercice sur CSS Grid
 
 </details>
 
