@@ -223,7 +223,6 @@ Bienvenue sur le portail du cours ! Vous trouverez le plan de cours, les exercic
 2. CSS Grid (suite)
 3. Exercice sur CSS Grid
 4. Variables CSS
-5. Méthodologies
 
 À faire pour le prochain cours :
 
@@ -234,6 +233,15 @@ Bienvenue sur le portail du cours ! Vous trouverez le plan de cours, les exercic
 <details>
 <summary><strong>16. Moteurs de gabarit</strong></summary>
 <br>
+
+1. Retour sur CSS Grid et les variables CSS
+2. Méthodologies et architecture CSS
+3. Moteurs de gabarit
+4. Exercice sur les moteurs de gabarit
+
+À faire pour le prochain cours :
+
+- Terminer l'exercice sur les moteurs de gabarit
 
 </details>
 
