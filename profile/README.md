@@ -249,6 +249,16 @@ Bienvenue sur le portail du cours ! Vous trouverez le plan de cours, les exercic
 <summary><strong>17. Générateurs de sites statiques</strong></summary>
 <br>
 
+1. Retour sur le TP2
+2. Retour sur l'exercice sur les moteurs de gabarit
+3. Révision à propos des chemins d'accès sur le Web
+4. Générateur de sites statiques
+5. Exercice sur les générateurs de sites statiques
+
+À faire pour le prochain cours :
+
+- Terminer l'exercice sur les générateurs de sites statiques
+
 </details>
 
 <details>
