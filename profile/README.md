@@ -265,6 +265,15 @@ Bienvenue sur le portail du cours ! Vous trouverez le plan de cours, les exercic
 <summary><strong>18. Intégration Web</strong></summary>
 <br>
 
+1. Retour sur l'approche modulaire
+2. Retour sur les générateurs de site statique
+3. Exercice sur les générateurs de site statique
+4. Énoncé du TP3
+
+À faire pour le prochain cours :
+
+- Rien !
+
 </details>
 
 <details>
